@@ -18,3 +18,4 @@ Katkı sağlamak istiyorsanız projeyi forklamanız ve bir Pull Request oluştur
 1. [Kelimeyi Tersten Yazma Problemi - Basit](./sorular/kelimeyi-tersten-yazma-problemi.md)
 2. [Dijital Toplam Problemi - Orta](./sorular/dijital-toplam-problemi.md)
 3. [Sierpinski Üçgeni - Zor](./sorular/sierpinski-ucgeni.md)
+4. [Coding Golf Sorusu: 10x10 Kare - Zor](./sorular/10x10-kare-golf-sorusu.md)

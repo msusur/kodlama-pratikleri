@@ -1,5 +1,7 @@
-Dijital Toplam Problemi
-==
+# Dijital Toplam Problemi
+
+Zorluk: Orta
+
 Dijital toplam, bir sayının tüm basamaklarındaki sayıların toplamına denir. Bir sayının dijital toplamı 
 
 `D(X) = Z`

@@ -32,7 +32,7 @@ En az sayıda cücenin ölmesi için, cüceler nasıl bir strateji belirlemeli?
 
 
 ## Kaynak
-1.economictimes
+1. economictimes
 https://economictimes.indiatimes.com/slideshows/work-career/20-toughest-job-interview-questions-asked-this-year/job-senior-recruiting-manager-at-amazon/slideshow/39871244.cms
-2.onedio
+2. onedio
 https://onedio.com/haber/herkesin-calismak-istedigi-dev-firmalarin-son-zamanlarda-mulakatlarda-sordugu-beyin-yakan-sorular-355960

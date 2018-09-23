@@ -1,15 +1,9 @@
 def reverse(string)
-  unless string.is_a? String
-    return false
-  end
-  splited_string = string.split("")
-  reversed = []
-  splited_string.reverse_each do |ss|
-    reversed.push(ss)
-  end
-  reversed = reversed.join("")
+  return string if string.length <= 1
 
-  reversed
+  reversed_str = reverse(string[1..-1])
+  reversed_str += string[0]
+  reversed_str
 end
 
 puts reverse("Muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenmişsinizcesine")

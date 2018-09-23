@@ -19,4 +19,4 @@ Diziyi siralayamazsiniz, time complexity = O(N) olmali.
 
 Bu soru Google Software Engineering ikinci round coding interview'inde soruldu. 
 
-Cozumu en kisa zamanda tekrar cozup ekleyecegim.
+[Çözüm](../cozumler/ilk-eksik-integer-degeri-bulma)

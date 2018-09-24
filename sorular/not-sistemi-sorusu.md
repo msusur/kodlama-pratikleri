@@ -26,4 +26,4 @@ Output: AA
 Input: 66
 Output: CB
 
-[Çözüm](../cozumler/not-sistemi)
+[Çözüm](../cozumler/not-sistemi-sorusu)

@@ -23,6 +23,5 @@ Katkı sağlamak istiyorsanız projeyi forklamanız ve bir Pull Request oluştur
 6. [Ilk eksik integer degeri bulma - Orta](./sorular/ilk-eksik-integer-degeri-bulma.md)
 7. [100'lük not sisteminde kullanıcıdan girilen puan ile harf sonucu bastırma - Basit](./sorular/not-sistemi-sorusu.md)
 
-
 ### Not:
 Burdaki birçok problemin (yada sorunun) neredeyse tüm dillerdeki implementasyonlarını [Rosetta Code](https://rosettacode.org/) adlı websitede bulabilirsiniz.

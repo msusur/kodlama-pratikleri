@@ -1,4 +1,4 @@
-# Kelimeyi tersten yazma problemi
+# 100'lük not sisteminde kullanıcıdan girilen puan ile harf sonucu bastırma
 
 Zorluk: Basit
 

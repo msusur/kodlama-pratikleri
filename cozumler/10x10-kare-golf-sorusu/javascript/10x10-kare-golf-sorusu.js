@@ -1,1 +1,1 @@
-console.log(Array(10).fill(Array(10).fill('*').join('')).join('\n'))
+console.log(Array(10).fill("*".repeat(10)).join('\n'))

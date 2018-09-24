@@ -15,7 +15,7 @@ Output: 2
 Input: [7,8,9,11,12]
 Output: 1
 
-Diziyi siralayamazsiniz, time complexity = O(N) olmali.
+Time complexity O(N^2) den daha dusuk olmali.
 
 Bu soru Google Software Engineering ikinci round coding interview'inde soruldu. 
 

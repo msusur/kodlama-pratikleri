@@ -4,7 +4,7 @@ const findDuplicateChars = sentence => {
           .split("")
           .sort()
           .join("")
-          .match(/(.)\1+/g)
+          .match(/([a-z])\1+/g)
           .reduce(function(result, item) {
             result[item[0]] = item.length; 
             return result;

@@ -20,7 +20,7 @@ Katkı sağlamak istiyorsanız projeyi forklamanız ve bir Pull Request oluştur
 3. [Sierpinski Üçgeni - Zor](./sorular/sierpinski-ucgeni.md)
 4. [Coding Golf Sorusu: 10x10 Kare - Zor](./sorular/10x10-kare-golf-sorusu.md)
 5. [Tekrar eden harfleri bulmaca - Basit](./sorular/tekrar-eden-harfleri-bulmaca.md)
-6. [Ilk eksik integer degeri bulma - Orta](.sorular/ilk-eksik-integer-degeri-bulma.md)
+6. [Ilk eksik integer degeri bulma - Orta](./sorular/ilk-eksik-integer-degeri-bulma.md)
 
 
 ### Not:

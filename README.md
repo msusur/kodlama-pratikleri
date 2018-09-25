@@ -31,3 +31,4 @@ Burdaki birçok problemin (yada sorunun) neredeyse tüm dillerdeki implementasyo
 - [Ender Ahmet Yurt](https://github.com/enderahmetyurt)
 - [Fırat Özbolat](https://github.com/firatoz)
 - [Cevher Veli Karakoç](https://github.com/cevherkarakoc)
+- [Batuhan Taşkaya](https://github.com/BTaskaya)

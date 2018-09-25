@@ -25,3 +25,9 @@ Katkı sağlamak istiyorsanız projeyi forklamanız ve bir Pull Request oluştur
 
 ### Not:
 Burdaki birçok problemin (yada sorunun) neredeyse tüm dillerdeki implementasyonlarını [Rosetta Code](https://rosettacode.org/) adlı websitede bulabilirsiniz.
+
+### Maintainers
+- [Mert Susur](https://github.com/msusur)
+- [Ender Ahmet Yurt](https://github.com/enderahmetyurt)
+- [Fırat Özbolat](https://github.com/firatoz)
+- [Cevher Veli Karakoç](https://github.com/cevherkarakoc)

@@ -39,15 +39,11 @@ int dijitalToplam(int sayi){
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	for(;;){
-		int deger=0;
-		cout<<"Sayi Giriniz: ";
-		cin>>deger;
-		cout<<endl;
-		cout<<dijitalToplam(deger)<<endl;
-		if(deger == 0)
-			break;
-	}
+	int deger=0;
+	cout<<"Sayi Giriniz: ";
+	cin>>deger;
+	cout<<endl;
+	cout<<dijitalToplam(deger)<<endl;		
 	system("pause");
 	return 0;
 }

@@ -7,10 +7,9 @@ class ReverseText
         }
 
         public static string Reverse(string text)
-        {
-            var s= text[text.Length - 1];
+        {            
             if (text.Length == 1)
                 return text;
-            return text[text.Length - 1] + Reverse(text.Substring(0,text.Length-1));
+            return text[text.Length - 1] + Reverse(text.Substring(0, text.Length-1));
         }
     }

@@ -10,21 +10,9 @@ public class MathProblems
         {
             if (referenceNumber > 0)
             {
-                if (referenceNumber < 10)
-                    return 10 + referenceNumber - 1;
-                else if (referenceNumber < 19)
-                    return 10 * (referenceNumber - 9) + 9;
-                else
-                {
-                    var mod = referenceNumber % 9;
-                    int division = referenceNumber / 9;
-                    var result = 0;
-                    for (int i = division - 1; i >= 0; i--)
-                    {
-                        result = result + 9 * (int)Math.Pow(10, i);
-                    }
-                    return result + mod * (int)Math.Pow(10, division);
-                }
+                int subtraction = referenceNumber - 1;
+		int division = subtraction / 9;
+		return division == 0 ? referenceNumber + 9 : (referenceNumber - 9 * division + 1) * Math.Pow(10, division) - 1;
             }
             else
             {

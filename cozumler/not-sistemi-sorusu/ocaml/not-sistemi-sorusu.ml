@@ -1,5 +1,5 @@
 (*
-  fintIndex Verilen koşulu sağlayan ilk indeksi yolluyor.
+  findIndex Verilen koşulu sağlayan ilk indeksi yolluyor.
   Native olarak OCaml'da olmadığı için yazmam gerekti.
 *)
 let rec findIndex conditionFn arr start =

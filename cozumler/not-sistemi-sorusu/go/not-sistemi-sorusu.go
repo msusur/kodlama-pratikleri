@@ -14,7 +14,9 @@ func scoreToResultCode(score int) (result string) {
 	return 
 }
 
-func test(scores []int, codes []string) bool {
+func test() bool {
+	var scores = []int{30, 90, 66} 
+	var codes = []string{"FD", "AA", "CB"}
 	for idx, _score := range scores {
 		if scoreToResultCode(_score) != codes[idx] { panic("ERROR") }
 	}
@@ -23,7 +25,5 @@ func test(scores []int, codes []string) bool {
 }
 
 func main() {
-	codesToTest := []int{30, 90, 66}
-	scoresToTest := []string{"FD", "AA", "CB"}
-	test(codesToTest, scoresToTest)
+	test()
 }

@@ -11,6 +11,8 @@ const scoreToResultCode = inputScore => {
   return code
 }
 
-console.log(scoreToResultCode(30)) // FD
-console.log(scoreToResultCode(90)) // AA
-console.log(scoreToResultCode(66)) // CB
+// Test
+const testMapping = { 30: 'FD', 90: 'AA', 66: 'CB' }
+Object.keys(testMapping).forEach(score => 
+  console.assert(scoreToResultCode(score) === testMapping[score])
+)

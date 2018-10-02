@@ -6,7 +6,7 @@ N elemanlı bir dizide iki boyutlu koordinatları belirleyen noktalar kümesi ol
 
 **Örnek**: [(1, 2), (2, 3), ...]
 
-Bu dizideki elemanlardan (0, 0) koordinatına en yakın olan K tane notayı bulan kodu yazın.
+Bu dizideki elemanlardan (0, 0) koordinatına en yakın olan K tane noktayı bulan kodu yazın.
 
 **Notlar**:
 * Kodun kısalığı ve göze güzel hitap etmesi önemli.

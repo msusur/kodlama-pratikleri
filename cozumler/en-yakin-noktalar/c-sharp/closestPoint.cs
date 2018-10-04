@@ -14,6 +14,8 @@
                       tempPoints.Add(points[i]);
               }
           }
+          if (k < tempPoints.Count)
+                return tempPoints.GetRange(0, k);
           return tempPoints;
       }
 

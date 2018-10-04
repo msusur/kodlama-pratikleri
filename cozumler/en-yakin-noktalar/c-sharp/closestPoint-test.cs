@@ -7,6 +7,6 @@ public void TestClosestPoint1()
 
     Point[] array = new Point[] { new Point { X = 1, Y = 2 }, p1, new Point { X = -1, Y = 1 } , p2 };
     var expectedList = new List<Point> { p1, p2 };
-    var result = problems.closestPoints(array);
+    var result = problems.closestPoints(array, 2);
     CollectionAssert.AreEqual(expectedList, result);
 }

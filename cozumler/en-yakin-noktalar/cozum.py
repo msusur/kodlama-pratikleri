@@ -17,13 +17,8 @@ def distances(coordinate):
         distance.append(sqrt(int(firstValue) + int(secondValue)))
     return distance
 
-def calculate():
-    data = distances(coordinate)
-    return data
-
-
 def matchResult(coordinate):
-        new_dict = dict(zip(coordinate,calculate()))
+        new_dict = dict(zip(coordinate,distances(coordinate)))
         return sorted(new_dict, key=new_dict.__getitem__)
 
 print("En yakindan noktadan en uzak noktaya siralanmis hali:",matchResult(coordinate))

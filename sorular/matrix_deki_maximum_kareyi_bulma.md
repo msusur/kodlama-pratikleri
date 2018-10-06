@@ -6,16 +6,21 @@ Zorluk: Orta
 
  Örnek olarak;
  Input:
-   0 1 1 0 1
-   1 1 0 1 0
-   0 1 1 1 0
-   1 1 1 1 0
-   1 1 1 1 1
-   0 0 0 0 0
 
+```
+0 1 1 0 1
+1 1 0 1 0
+0 1 1 1 0
+1 1 1 1 0
+1 1 1 1 1
+0 0 0 0 0
+```
  Output:
-  1 1 1
-  1 1 1
-  1 1 1
 
-[Çözüm](../cozumler/matrix_deki_maximum_kareyi_bulma)
+ ```
+ 1 1 1
+ 1 1 1
+ 1 1 1
+ ```
+
+ [Çözüm](../cozumler/matrix_deki_maximum_kareyi_bulma)

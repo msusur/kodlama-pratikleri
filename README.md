@@ -16,12 +16,12 @@ Katkı sağlamak istiyorsanız projeyi forklamanız ve bir Pull Request oluştur
 
 ## Endeks
 1. [Kelimeyi Tersten Yazma Problemi - Basit](./sorular/kelimeyi-tersten-yazma-problemi.md)
-2. [Dijital Toplam Problemi - Orta](./sorular/dijital-toplam-problemi.md)
-3. [Sierpinski Üçgeni - Zor](./sorular/sierpinski-ucgeni.md)
-4. [Coding Golf Sorusu: 10x10 Kare - Zor](./sorular/10x10-kare-golf-sorusu.md)
-5. [Tekrar eden harfleri bulmaca - Basit](./sorular/tekrar-eden-harfleri-bulmaca.md)
-6. [Ilk eksik integer degeri bulma - Orta](./sorular/ilk-eksik-integer-degeri-bulma.md)
-7. [100'lük not sisteminde kullanıcıdan girilen puan ile harf sonucu bastırma - Basit](./sorular/not-sistemi-sorusu.md)
+2. [Tekrar eden harfleri bulmaca - Basit](./sorular/tekrar-eden-harfleri-bulmaca.md)
+3. [100'lük not sisteminde kullanıcıdan girilen puan ile harf sonucu bastırma - Basit](./sorular/not-sistemi-sorusu.md) 
+4. [Dijital Toplam Problemi - Orta](./sorular/dijital-toplam-problemi.md)
+5. [Ilk eksik integer degeri bulma - Orta](./sorular/ilk-eksik-integer-degeri-bulma.md)
+6. [Coding Golf Sorusu: 10x10 Kare - Zor](./sorular/10x10-kare-golf-sorusu.md)
+7. [Sierpinski Üçgeni - Zor](./sorular/sierpinski-ucgeni.md)
 8. [En yakin noktalari bulma sorusu (Facebook) - Zor](./sorular/en-yakin-noktalar.md)
 
 ### Not:

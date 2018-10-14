@@ -18,11 +18,13 @@ Katkı sağlamak istiyorsanız projeyi forklamanız ve bir Pull Request oluştur
 1. [Kelimeyi Tersten Yazma Problemi - Basit](./sorular/kelimeyi-tersten-yazma-problemi.md)
 2. [Tekrar eden harfleri bulmaca - Basit](./sorular/tekrar-eden-harfleri-bulmaca.md)
 3. [100'lük not sisteminde kullanıcıdan girilen puan ile harf sonucu bastırma - Basit](./sorular/not-sistemi-sorusu.md) 
-4. [Dijital Toplam Problemi - Orta](./sorular/dijital-toplam-problemi.md)
-5. [Ilk eksik integer degeri bulma - Orta](./sorular/ilk-eksik-integer-degeri-bulma.md)
-6. [Coding Golf Sorusu: 10x10 Kare - Zor](./sorular/10x10-kare-golf-sorusu.md)
-7. [Sierpinski Üçgeni - Zor](./sorular/sierpinski-ucgeni.md)
-8. [En yakin noktalari bulma sorusu (Facebook) - Zor](./sorular/en-yakin-noktalar.md)
+4. [Bir dizide olmayan integer'ı bulma - Basit](./sorular/dizide-olmayan-sayiyi-bulma.md)
+5. [Dijital Toplam Problemi - Orta](./sorular/dijital-toplam-problemi.md)
+6. [Ilk eksik integer degeri bulma - Orta](./sorular/ilk-eksik-integer-degeri-bulma.md)
+7. [Bir matrix'deki maximum boyuta sahip kareyi bulma - Orta](./sorular/matrix_deki_maximum_kareyi_bulma.md)
+8. [Coding Golf Sorusu: 10x10 Kare - Zor](./sorular/10x10-kare-golf-sorusu.md)
+9. [Sierpinski Üçgeni - Zor](./sorular/sierpinski-ucgeni.md)
+10. [En yakin noktalari bulma sorusu (Facebook) - Zor](./sorular/en-yakin-noktalar.md)
 
 ### Not:
 Burdaki birçok problemin (yada sorunun) neredeyse tüm dillerdeki implementasyonlarını [Rosetta Code](https://rosettacode.org/) adlı websitede bulabilirsiniz.

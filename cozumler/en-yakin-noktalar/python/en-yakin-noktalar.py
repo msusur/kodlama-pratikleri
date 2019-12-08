@@ -26,4 +26,5 @@ class Facebook:
 if __name__ == "__main__":
     k = 3
     result = Facebook().find_nearest_neighbor(k)
+    assert [p.point for p in result] == [[1, 2], [2, 2], [2, 3]]
     print("En yakın {} nokta ->".format(k), [p.point for p in result])
